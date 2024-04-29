@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexe Paul! 👋
 
-- 🔭 I'm currently studying computer science at the **University of Bucharest**.
+- 🔭 I'm currently studying computer science at the **[University of Bucharest](https://github.com/AlexePaul/Unibuc-FMI)**.
 - 🌱 I'm deeply passionate about technology and software development.
 - 💻 I enjoy working on various projects to enhance my skills and contribute to the community.
 - 📚 Constantly learning and exploring new concepts in computer science.
